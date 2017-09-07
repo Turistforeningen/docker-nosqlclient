@@ -1,4 +1,4 @@
-FROM mongoclient/mongoclient:2.1.0
+FROM mongoclient/mongoclient:2.2.0
 
 VOLUME ["/secrets"]
 
